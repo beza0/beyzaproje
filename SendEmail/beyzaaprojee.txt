@@ -1,0 +1,12 @@
+	GENEL ÜYELER
+1	1	tarikcaliskan03@gmail.com
+beyza	acar	beyzacar5441@gmail.com
+Ayse	Ak	ayse@mail.com
+
+
+
+	ELİT ÜYELER
+beyza	acar	beyzacar5441@gmail.com
+Serpil	Ustebay	 serpil@mail.com
+Eda	Gok	eda@mail.com
+Ali	Gokten	ali@mail.com

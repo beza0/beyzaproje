@@ -1,0 +1,11 @@
+	GENEL ÜYELER
+1		1
+1	1	1
+beyza	acar	beyzacar5441@gmail.com
+
+
+
+
+ELİT ÜYELER
+2	2	2
+tarık	çalışkan	tarikcaliskan03@gmail.com

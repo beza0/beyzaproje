@@ -1,0 +1,10 @@
+	GENEL ÜYELER
+1	1	1
+Ayse	Ak	ayse@mail.com
+
+
+
+	ELİT ÜYELER
+Serpil	Ustebay	 serpil@mail.com
+Eda	Gok	eda@mail.com
+Ali	Gokten	ali@mail.com
